@@ -1,1 +1,7 @@
-Antoher Test File for GITHUB!
+Another Test File for github!?
+
+Git add
+Git commit
+Git push
+
+list of commands
